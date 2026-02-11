@@ -1,7 +1,8 @@
 ## Welcome to My GitHub Profile 👋
 
-🎓 Graduate of KPI, Bachelor of Computer Engineering
-🔍 Interested in: receiving, processing and analyzing data; machine learning
+🎓 Master’s in Computer Engineering, KPI
+
+🔍 Interested in: AI, LLMs; receiving, processing and analyzing data.
 
 #### [🛠️ Key Projects](https://github.com/lavrinenkoll/lavrinenkoll/blob/main/KEYPROJ.md)
 
